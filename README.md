@@ -4,7 +4,7 @@ An LSTM-based Next Word Prediction web application built using Python, TensorFlo
 
 ## Live Demo
 
-[Try the Live Demo](YOUR_STREAMLIT_LINK_HERE)
+[Try the Live Demo](https://sonu-next-word-prediction.streamlit.app/)
 
 ## Tech Stack
 
